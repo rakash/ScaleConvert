@@ -1,6 +1,3 @@
-### https://realpython.com/pypi-publish-python-package/
-## if you need a package that should be executable like "python converter" then there should be a __main__.py file. read the above article.
-
 import sys
 
 def celsius_to_fahrenheit(n):
